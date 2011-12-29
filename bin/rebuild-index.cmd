@@ -1,0 +1,1 @@
+java -jar nexus-indexer-3.0.4-cli.jar -t full -r ..\lib\ -i .index -d ..\lib\.index
